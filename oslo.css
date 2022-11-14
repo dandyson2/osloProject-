@@ -1,0 +1,172 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	display: grid;
+
+}
+nav{
+	display: flex;
+	background-color: blue;
+	padding: 15px 15px;
+	justify-content: center;
+	color: white;
+}
+#first{
+	margin: 5px;
+	padding: 10px 40px;
+	border-radius: 25px;
+	background-color: cornflowerblue;
+	color: ghostwhite;
+}
+.ogun{
+	background-image: url(lag2.jpg);
+	height: 650px;
+	flex-direction: column;
+	justify-content:  center;
+	align-items: flex-start;
+	display: flex;
+	font-size: 20px;
+}
+main{
+	display: grid;
+	grid-template-columns: 180px 300px 180px;
+	grid-gap:150px;
+	justify-content: center;
+	margin-top: 50px; 
+}
+#see{
+	width: 300px;
+	height: 300px;
+}
+#good{
+	width: 180px;
+	height: 270px;
+}
+#kano{
+	color: blue;
+}
+#duru{
+	justify-self: center;
+	padding: 15px 30px;
+	background-color: red;
+	color: ghostwhite;
+	border-radius: 25px;
+
+}
+.two{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-top: 30px;
+	background-image: url(ebonyi.jpg);
+	height: 300px;
+}
+#uche{
+	padding: 15px 30px;
+	background-color: red;
+	color: ghostwhite;
+	border-radius: 25px;
+}
+h3{
+	color: indigo;
+}
+#v{
+	width: 220px;
+	height: 250px;
+
+}
+.wan{
+	display: grid;
+	grid-template-columns: 220px 220px 220px;
+	justify-content: center;
+	grid-gap:200px;
+	margin-top: 150px;
+}
+#q{
+	text-align: center;
+	font-weight: 600
+	padding:50px;
+	background-color: blue;
+	color: white;
+	margin-top: 0px;
+}
+a{
+	text-decoration: none;
+}
+#oo{
+	text-align: center;
+}
+#z{
+	width: 250px;
+	height: 250px;
+	border-radius: 100px;
+}
+.zan{
+	height: 700px;
+	display: grid;
+	grid-template-columns: 200px 200px 200px;
+	grid-gap: 100px;
+	align-items: center;
+	justify-content: center;
+	margin-top: 50px;
+	background-color: chocolate;
+}
+.nan{
+	display: grid;
+	grid-template-columns: 300px 300px 300px;
+	justify-content: center;
+	margin-left: 200px;
+	
+
+	margin-top: 50px;
+}
+.ran{
+	width: fit-content;
+	font-size: 20px;
+	padding: 25px;
+	border: 10px groove;
+	border-radius: 50%;
+	border-color: coral;
+}
+.oslo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+h5{
+	color: blue;
+}
+#zoo{
+	text-align: center;
+}
+#ll{
+	color: indigo;
+}
+#ham{
+	color: blue;
+	font-weight: 600
+}
+form button{
+	padding: 10px;
+	justify-content: center;
+	width: 720px;
+	background-color: white;
+	border: 2px solid blue;
+}
+form{
+	text-align: center;
+}
+input{
+	width: 700px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+#boy{
+	text-align: center;
+	padding-top: 50px;
+	color: blue;
+}
+h1{
+	color: coral;
+}
